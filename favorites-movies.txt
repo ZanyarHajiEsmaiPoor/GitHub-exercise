@@ -1,9 +1,13 @@
 My favorites movies:
 - Batman Darknight 2008
 - Dead poet society
+<<<<<<< HEAD:favorites.txt
 - Breaking bad
 - Better call saul
 My favorites foods:
 - Kabab
 - Pizza
 - Fried Chicken
+=======
+- Interstellar
+>>>>>>> movies:favorites-movies.txt
